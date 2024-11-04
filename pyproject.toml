@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "trabajo-04-11-2024"
+version = "0.0.1"
+description = "Taller 04-11-2024"
+authors = ["MichelSLV8501 <michellarrota@hotmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
