@@ -1,0 +1,5 @@
+Modelos/model_pipeline_gb.joblib
+Modelos/model_pipeline_logreg.joblib
+Modelos/model_pipeline_nb_best.joblib
+Modelos/model_pipeline_rf.joblib
+Modelos/model_pipeline_svm.joblib
