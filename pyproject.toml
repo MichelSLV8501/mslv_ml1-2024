@@ -1,13 +1,23 @@
 [tool.poetry]
-name = "trabajo-04-11-2024"
+name = "Machine Learning 1"
 version = "0.0.1"
-description = "Taller 04-11-2024"
-authors = ["MichelSLV8501 <michellarrota@hotmail.com>"]
-license = "MIT"
+description = "Proyecto ML 2024"
+authors = ["MSLV"]
+license = "ML"
 readme = "README.md"
+package-mode = false
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.10"
+pandas = "2.2.3"
+numpy = "1.26.4"
+scipy = "^1.14.1"
+matplotlib = "3.9.2"
+plotly = "5.24.1"
+scikit-learn = "1.5.2"
+ucimlrepo = "0.0.7"
+seaborn = "0.13.2"
+scikit-learn-extra = "0.3.0"
 
 
 [build-system]
